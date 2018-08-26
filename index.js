@@ -13,7 +13,7 @@ function deleteObjectByKey(obj, key, val){
   
 }
 
-function destructiveyDeleteObjectByKey(obj, key, val){
+function destructivelyDeleteFromObjectByKey(obj, key){
   delete obj[key]
 }
 
