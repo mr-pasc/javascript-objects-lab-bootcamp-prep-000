@@ -1,3 +1,5 @@
+var recipe = new Object()
+
 function updateObjectWithKeyAndValue(obj, key, val){
   Object.assign(obj, {key: val})
 }
