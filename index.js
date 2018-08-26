@@ -1,1 +1,1 @@
-function updateObject
+function updateObjectWithKeyAndValue
